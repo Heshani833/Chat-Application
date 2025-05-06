@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background: lightblue;
+}
+
+.chatbot {
+  background: white;
+  right: 40px;
+  bottom: 100px;
+  width: 420px;
+  border-radius: 15px;
+}
+
+.chatbot header {
+  background: rgb(61, 151, 225);
+  padding: 16px 0;
+  text-align: center;
+}
